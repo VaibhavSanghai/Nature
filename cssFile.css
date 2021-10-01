@@ -1,0 +1,50 @@
+.heading {
+  font-family: sans-serif;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.headingComp {
+  max-width: 1200px;
+  magrin: 0 auto;
+}
+.headingComp nav ul li {
+  display: inline-block;
+}
+.mainImg {
+  margin: 0,
+}
+.headingComp img {
+  float: left;
+}
+.headingComp nav ul li a {
+  float: right;
+}
+.headingComp nav ul li a {
+  padding: 10px 20px;
+  text-decoration: none;
+  color: #000000;
+  line-height: 70px;
+}
+.headingComp nav ul li a:hover {
+  background: #000000;
+  color: #0000FF;
+}
+p{
+  margin-bottom: 10px;
+  font-family: "Rockwell"
+}
+a {
+  font-family: cursive;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin-bottom: 30px;
+}
+.img1 img {
+  float: left;
+  width: 500;
+}
+.img2 img {
+  float: right;
+  width: 500; 
+}
